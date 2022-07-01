@@ -1,5 +1,5 @@
 main() {
-  printMoreNames(['Dora', 'John', 'Vane', 'Bro', 'Sann']);
+  printMoreNames(['Dora', 'John', 'Vane', 'Bro', 'Sann', 'Other name']);
 }
 
 void printMoreNames(List<String> names) {
