@@ -1,5 +1,5 @@
 main() {
-  checkName(const ['John', 'Dora', 'Bedo']);
+  checkName(['John', 'Dora', 'Bedo']);
 }
 
 void checkName(List<String> names) {
