@@ -1,3 +1,4 @@
+//The Big O notation for constant time is O(1).
 main() {
   checkName(['John', 'Dora', 'Bedo']);
 }
