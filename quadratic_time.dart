@@ -1,4 +1,4 @@
-//The Big O notation for quadratic time is O(n ).
+//The Big O notation for quadratic time is O(n2)..
 main() {
   printMoreNames(['Dora', 'John', 'Vane', 'Bro', 'Sann', 'Other name']);
 }
