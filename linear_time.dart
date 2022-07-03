@@ -1,3 +1,4 @@
+//The Big O notation for linear time is O(n).
 main() {
   printNames(['Va', 'John', 'Dora']);
 }
